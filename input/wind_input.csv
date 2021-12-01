@@ -1,0 +1,5 @@
+variable_name,initial_val,prior_type,prior_para_a,prior_para_b,draw_scale
+wind_direction,45,Fixed,,,
+max_wind_speed,7,Gaussian,10,5,1
+elevation_max_speed,10000,Fixed,,,
+zero_elevation,20000,Fixed,,,
